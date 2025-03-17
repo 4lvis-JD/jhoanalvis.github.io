@@ -1,0 +1,44 @@
+
+html {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    background-color: bisque;
+  }
+
+  body{
+    background-color: beige;
+    width: 700px;
+    margin: 10px auto;
+    padding: 20px 20px 20px ;
+    border: 7px solid rgb(185, 159, 126);
+  }
+
+  h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+    text-shadow: 3px 3px 10px gray;
+  }
+
+  img {
+    width: 340px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .pfinal, .lista-ordenada, .lista-desordenada {text-align: justify;}
+
+  .vinculo1:hover {
+    color:rgb(218, 25, 115);
+  }
+
+  p, li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: normal;
+  }
+
